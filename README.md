@@ -1,4 +1,4 @@
-# jojoRepo
+# jojoRepo 2
 
 Tässä on uusi testi repo
 
@@ -11,3 +11,7 @@ tee lista
 Kokkaa
 
 Syö hyvin
+
+# LISÄÄ MUISTUTUKSIA
+
+Osta sipulia
